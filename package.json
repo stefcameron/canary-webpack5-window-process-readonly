@@ -1,0 +1,26 @@
+{
+  "name": "canary-webpack5-window-process-readonly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefcameron/canary-webpack5-window-process-readonly.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefcameron/canary-webpack5-window-process-readonly/issues"
+  },
+  "homepage": "https://github.com/stefcameron/canary-webpack5-window-process-readonly#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.26.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^4.0.0-beta.0"
+  }
+}
