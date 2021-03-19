@@ -1,5 +1,7 @@
 # canary-webpack5-window-process-readonly
 
+Filed as https://bugs.chromium.org/p/chromium/issues/detail?id=1188440
+
 ## Environment
 
 - OS: macOS 11.2.3
